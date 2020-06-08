@@ -1,19 +1,6 @@
-# bmobile
+## 参考教程
 
-## Project setup
-```
-npm install
-```
+[视频地址](https://www.bilibili.com/video/BV1vT4y137So?p=1)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+老师讲的很好很详细
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
